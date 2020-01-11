@@ -4,4 +4,4 @@ youtube-dl==2019.12.25
 async-timeout==3.0.1
 aiohttp==3.5.4
 urllib3==1.23
-requests==2.19.1
+requests==2.20.0
